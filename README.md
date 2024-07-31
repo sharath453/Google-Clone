@@ -20,7 +20,7 @@ This project is a clone of the Google search page. It replicates the basic desig
 
 ## Screenshots
 
-![Google_Clone](https://github.com/user-attachments/assets/22801726-c5df-4a8e-9aae-6ae66752371b)
+![Google_Clone](https://github.com/user-attachments/assets/4ec53fc9-6b30-4a0c-97ff-01412afec0ff)
 
 ## Built With
 
@@ -54,8 +54,8 @@ You need a modern web browser to run this project.
 3. Responsive design
 
 # Contact
-Email - alsharath66@gmail.com
+Email - alsharath66@gmail.com<br>
 LinkedIn - [Sharath A L](https://www.linkedin.com/in/sharath-a-l-877754249/)
 
-Project Link
+# Project Link
 https://github.com/sharath453/google-clone.git
